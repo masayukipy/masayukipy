@@ -25,7 +25,7 @@
 
 <hr>
 
-### Academic
+<!-- ### Academic
 
 - Postgraduate Degree (Latu Sensu) in Full Stack Web Development from PUC Minas <br>
 - Postgraduate Degree (Latu Sensu) in UX Design from Claretiano University Center <br>
@@ -57,7 +57,7 @@
       <img  alt="GIF" src="https://github.com/williamlims/williamlims/blob/main/programmer.gif?raw=true" width="400" height="256" /><br>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ### About Me -->
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maiermarc75)](https://github.com/maiermarc74) -->
