@@ -1,6 +1,6 @@
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I'm a Full Stack Developer! I've had the opportunity to know many programming languages such as Java, PHP, Python, C, C++, Javascript and others. I work with the frameworks Django and Express.
+#### I'm a Python Engineer! I've had the opportunity to know many programming languages such as Java, PHP, Python, C, C++, Javascript and others. I work with the frameworks Django and Express.
 
 <hr>
 
