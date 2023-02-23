@@ -34,7 +34,7 @@
 - Licentiate's Degree in Computing from Claretiano University Center <br>
 - Licentiate's Degree in Pedagogy from Claretiano University Center <br>
  
-<hr>
+
 
 ### GitHub Status
 
@@ -78,4 +78,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
