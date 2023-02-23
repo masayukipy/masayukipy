@@ -3,7 +3,7 @@
 #### I'm a Python Engineer! I've had the opportunity to know many programming languages such as Java, PHP, Python, C, C++, Javascript and others. I work with the frameworks Django and Express.
 
 <hr>
-
+<!-- 
 #### Languages and Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/PYTHON-483D8B?style=for-the-badge&logo=python&logoColor=white" alt="python" /> &nbsp; &nbsp;
@@ -78,3 +78,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
